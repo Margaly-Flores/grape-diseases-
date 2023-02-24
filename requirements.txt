@@ -1,0 +1,13 @@
+
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+opencv-python>=4.6
+Flask
+numpy
+matplotlib
+Pillow
+ultralytics==8.0.20
+Werkzeug
+gunicorn
+omegaconf
